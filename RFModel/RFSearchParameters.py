@@ -6,7 +6,7 @@ class RFSearchParameters(GridSearchParameters):
 
     def init_gs_params(self):
         self.gs_params = {
-            'verbose': 1,
+            'verbose': 0,
             'cv': 5,
             'n_jobs': -1
         }
