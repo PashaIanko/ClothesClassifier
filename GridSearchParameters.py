@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 class GridSearchParameters(ABC):
     def __init__(self):
         self.gs_params = {
-            'verbose': 2,
+            'verbose': 3,
             'cv': 5,
             'n_jobs': -1
         }
