@@ -1,4 +1,7 @@
 # ClothesClassifier
+Full report, pre-processing pipeline and used models are described in **PDF** file, accessible via link:
+https://github.com/PashaIanko/Kaggle.ClothesClassifier/blob/main/Report.pdf
+
 Fashion MNIST dataset, provided by kaggle competition: https://www.kaggle.com/c/image-classification-fashion-mnist/
 ![Class distribution](https://user-images.githubusercontent.com/55174155/180301269-da211cd3-bb2b-4136-b99a-4e2ccbfcbbc7.jpg)
 ![Pixel dist](https://user-images.githubusercontent.com/55174155/180301308-ec35d1c3-0bbc-4dcf-9456-cda0af887827.jpg)
